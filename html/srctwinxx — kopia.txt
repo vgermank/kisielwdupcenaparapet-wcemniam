@@ -1,0 +1,19 @@
+<html>
+
+<head>
+<body style="background-color:lightblue;">
+</head>
+
+<body>
+<center>
+<img src="banerokpa.jpg">
+	<h1><b><font color="00008B">NA TEJ STRONIE ZNAJDZIESZ NOSTALGICZNE SCREENY Z SERVERA STREFA WSPOLNIKOW I NIE TYLKO!!</h1></b>
+	<h2> AUTORSTWA GERMANKA<br></h2>
+	<h3> <i>jesli ktoś zobaczy tą strone oprócz mnie i nie chce być tutaj to MOŻE usunę, pozdro<br></h3></i>
+	
+
+	</center
+	
+</body>
+
+</html>
